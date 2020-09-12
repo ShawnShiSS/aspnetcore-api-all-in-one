@@ -1,5 +1,5 @@
 # aspnetcore-api-all-in-one
-Asp.Net Core API starter project - All-in-One
+Asp.Net Core API architecture starter project - All-in-One
 
 Please feel free to use this as a starter template for your next project!
 
