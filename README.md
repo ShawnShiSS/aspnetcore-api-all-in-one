@@ -1,7 +1,11 @@
 # aspnetcore-api-all-in-one
 Asp.Net Core API starter project - All-in-One
 
-This sample template project an ongoing monolithic project aimed to showcase the following functionalities. Please watch in order to get notification when I publish this project.
+Please feel free to use this as a starter template for your next project!
+
+Please watch this in order to get notification when I publish updates to this project.
+
+This is a template project aimed to showcase the following functionalities. 
 
 - Serilog
 - In-memory cache through Dependency Injection
@@ -15,3 +19,6 @@ This sample template project an ongoing monolithic project aimed to showcase the
 - Message Broker service (Azure Service Bus or RabbitMQ) through Dependency Injection
 - Distributed Cache
 - etc.
+
+
+Please do provide your feedback or ask any questions!
