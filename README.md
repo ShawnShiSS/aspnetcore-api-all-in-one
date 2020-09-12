@@ -1,5 +1,5 @@
 # aspnetcore-api-all-in-one
-Asp.Net Core API architecture starter project - All-in-One
+ASP.NET Core API architecture starter project - All-in-One
 
 Please feel free to use this as a starter template for your next project!
 
@@ -14,7 +14,7 @@ This is a template project aimed to showcase the following functionalities.
 - Entity Framework Core and SQL Server
 - Email service through Dependency Injection
 - AutoMapper through Dependency Injection
-- User service using Asp.Net Core Identity and JWT token
+- User service using ASP.NET Core Identity and JWT token
 - Strongly typed appsettings using IOptions
 - Message Broker service (Azure Service Bus or RabbitMQ) through Dependency Injection
 - Distributed Cache
