@@ -1,9 +1,7 @@
 # aspnetcore-api-all-in-one
 ASP.NET Core API architecture starter project - All-in-One
 
-Please feel free to use this as a starter template for your next project!
-
-Please watch this in order to get notification when I publish updates to this project.
+THIS PROJECT IS CURRENTLY EMPTY. Please watch this in order to get notification when I publish updates to this project.
 
 This is a template project aimed to showcase the following functionalities. 
 
@@ -20,5 +18,3 @@ This is a template project aimed to showcase the following functionalities.
 - Distributed Cache
 - etc.
 
-
-Please do provide your feedback or ask any questions!
