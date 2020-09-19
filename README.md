@@ -1,4 +1,4 @@
-# aspnetcore-api-all-in-one
+# ASP.NET Core API - All-in-one
 ASP.NET Core API architecture starter project - All-in-One
 
 THIS PROJECT IS CURRENTLY EMPTY, because I am currently working on individual components below first. Once I have a few components ready, I will bring them into this all-in-one project. Please watch this in order to get notification when I publish updates to this project.
